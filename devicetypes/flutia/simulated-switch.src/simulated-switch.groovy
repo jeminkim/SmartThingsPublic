@@ -19,7 +19,7 @@
  *  under the License.
  */
 metadata {
-    definition(name: "simulated Switch", namespace: "flutia", author: "flutia") {
+    definition(name: "Simulated Switch", namespace: "flutia", author: "flutia") {
         capability "Actuator"
         capability "Switch"
         capability "Refresh"
